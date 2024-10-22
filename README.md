@@ -258,3 +258,5 @@ Include this snippet in the metadata for each page (assuming `img/hero.png` is t
 ```
 hero_image: img/hero.png
 ```
+
+> Note: On pages one level down in the nav hierarchy (e.g. `/cfp` or `/program`), the image path needs to be relative to the site root. For example, `cfp.markdown` includes the hero image as `hero_image: ../img/hero.png`.
