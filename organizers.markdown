@@ -1,6 +1,6 @@
 ---
 title: Organizers and Program Committee
-subtitle:
+subtitle: Hello
 layout: page
 show_sidebar: false
 hero_image: ../img/hero.png

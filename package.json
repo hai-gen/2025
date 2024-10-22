@@ -4,7 +4,7 @@
   "description": "The 6th Workshop on Human-AI Co-Creation with Generative Models, held at ACM IUI 2025.",
   "main": "index.js",
   "scripts": {
-    "start": "bundle exec jekyll serve --livereload",
+    "start": "bundle exec jekyll serve --livereload --baseurl=\"\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
