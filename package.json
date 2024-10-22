@@ -1,0 +1,20 @@
+{
+  "name": "hai-gen2025",
+  "version": "1.0.0",
+  "description": "The 6th Workshop on Human-AI Co-Creation with Generative Models, held at ACM IUI 2025.",
+  "main": "index.js",
+  "scripts": {
+    "start": "bundle exec jekyll serve --livereload",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hai-gen/2025.git"
+  },
+  "author": "Justin Weisz <jweisz@us.ibm.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hai-gen/2025/issues"
+  },
+  "homepage": "https://github.com/hai-gen/2025#readme"
+}

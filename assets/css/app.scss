@@ -1,0 +1,22 @@
+---
+---
+
+// set the primary color to black; this is used for the top navbar
+// keep this the same every year
+$primary: #000000;
+
+// set the text color of navbar items to be white so it's readable
+$navbar-item-color: #FFFFFF;
+
+$block-spacing: 3rem;
+
+// $info: rgb(51, 131, 114);
+// $title-color: rgb(255, 255, 255);
+
+// Import Main CSS file from theme
+@import "main";
+
+// override the text color on the hero image so it's readable
+.hero.is-primary .title, .hero.is-primary .subtitle {
+    color: rgb(255, 255, 255);
+}
