@@ -101,17 +101,9 @@ Here is a full example of `package.json`:
 }
 ```
 
-7. Set up GitHub Pages.
+7. Set up [GitHub Pages](https://github.com/hai-gen/2025/settings/pages) using GitHub Actions. There will be a default action recommended for Jekyll. It seems fine to use as is.
 
-```
-https://github.com/hai-gen/2025/settings/pages
-```
-
-8. View the site.
-
-```
-https://hai-gen.github.io/2025
-```
+8. View the site: [https://hai-gen.github.io/2025](https://hai-gen.github.io/2025)
 
 9. Once you're happy, make the base `https://hai-gen.github.io` redirect to the current conference year by editing `index.html` in the `hai-gen.github.io` repository.
 
@@ -188,7 +180,7 @@ sass:
 
 ### assets/css/app.scss
 
-Check the [Bulma documentation](https://bulma.io/documentation/) and the [Bulma Clean Theme documentation](https://www.csrhymes.com/bulma-clean-theme/docs/) for more information on their use of CSS. At the least, make the following definitions.
+Check the [Bulma documentation](https://bulma.io/documentation/) and the [Bulma Clean Theme documentation](https://www.csrhymes.com/bulma-clean-theme/docs/) for more information on their use of CSS. At the least, make the following definitions. And yes, we need the `---\n---` at the top of the file, otherwise the CSS somehow doesn't propagate correctly into the HTML pages (although VSCode throws an error, it's safe to ignore).
 
 ```css
 ---
@@ -200,16 +192,19 @@ $primary: #000000;
 
 // set the text color of navbar items to be white so it's readable
 $navbar-item-color: #FFFFFF;
-
-// add extra spacing, e.g. in between organizer blocks
-$block-spacing: 3rem;
+$navbar-background-color: #222222;
 
 // Import Main CSS file from theme
 @import "main";
 
 // override the text color on the hero image so it's readable
-.hero.is-primary .title, .subtitle {
+.hero.is-primary .title, .hero.is-primary .subtitle {
     color: rgb(255, 255, 255);
+}
+
+// maintain spacing between organizer blocks
+.columns:not(:last-child) {
+    margin-bottom: 2rem;
 }
 ```
 

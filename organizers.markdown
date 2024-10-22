@@ -1,6 +1,6 @@
 ---
-title: Organizers and Program Committee
-subtitle: Hello
+title: Workshop Organizers
+subtitle: Organizers and Program Committee
 layout: page
 show_sidebar: false
 hero_image: ../img/hero.png
@@ -126,9 +126,9 @@ hero_image: ../img/hero.png
     </div>
 </div>
 
-<p>Email the organizing committee at <a href="mailto:hai-gen@googlegroups.com">hai-gen [at] googlegroups.com</a></p>
+<p>Email the organizing committee at <a href="mailto:omokryn@is.haifa.ac.il">omokryn [at] is.haifa.ac.il</a></p>
 
 
 # Program Committee
 
-TBD
+To be announced.
