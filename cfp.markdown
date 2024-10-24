@@ -19,8 +19,8 @@ Submissions are encouraged, but not limited to, the following topics:
 * Human-AI co-creation across modalities and platforms (web, VR, AR) that support the creation of physical and/or digital artifacts
 * Co-Creativity in education and skill development
 * Use cases & novel applications for co-creativity
-* Intent inference and intent-based co-creation. 
-* Techniques, methodologies, & algorithms that enable new user experiences and interactions with generative models %and allow for directed and purposeful manipulation of the model output
+* Intent inference and intent-based co-creation
+* Techniques, methodologies, & algorithms that enable new user experiences and interactions with generative models
 * Usage patterns, design guidelines, and design principles for intent-based outcome specification that support effective and safe use
 * Issues of governance, privacy, ownership, and attribution of human-AI co-created content
 * Security, including forensic tools and approaches for deep fake detection
