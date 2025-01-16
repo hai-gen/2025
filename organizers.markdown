@@ -131,4 +131,17 @@ hero_image: ../img/hero.png
 
 # Program Committee
 
-To be announced.
+* Maya Ackerman, Santa Clara University
+* Kenneth Arnold, Calvin University
+* John Joon Young Chung, Midjourney
+* Hyo Jin Do, IBM Research
+* Molly Feldman, Oberlin College
+* Katy Gero, Columbia University
+* Kazjon Grace, The University of Sydney
+* Andrew Kun, University of New Hampshire
+* Yiren Liu, University of Illinois at Urbana-Champaign
+* Brian Magerko, Georgia Tech
+* Tamir Mendel, New York University
+* Jeba Rezwana, Towson University
+* Anuschka Schmitt, The London School of Economics and Political Science
+* Erin Solovey, Worcester Polytechnic Institute
