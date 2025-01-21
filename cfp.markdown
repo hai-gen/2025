@@ -51,7 +51,7 @@ A workshop summary will be included in the ACM Digital Library for IUI 2025. Alt
 
 ## Papers & Demos
 
-Please follow the CEUR guidelines for the single column paper template ([download the CEUR template](https://drive.google.com/file/d/1F9Nllrmhu6gUuYDdl-svxqwd5AW5NmZY/view)). The length should be no less than 5 pages for papers and demos, and no more than 10 maximum to be published in CEUR (see [https://ceur-ws.org/HOWTOSUBMIT.html](https://ceur-ws.org/HOWTOSUBMIT.html) for details).
+Please follow the CEUR guidelines for the single column paper template ([download the CEUR template](https://drive.google.com/file/d/1F9Nllrmhu6gUuYDdl-svxqwd5AW5NmZY/view)). The length should be no less than 5 pages for papers and demos, and no more than 10 maximum, excluding references, to be published in CEUR (see [https://ceur-ws.org/HOWTOSUBMIT.html](https://ceur-ws.org/HOWTOSUBMIT.html) for details).
 
 ## Posters
 
@@ -59,7 +59,7 @@ We also encourage submissions of non-archival, extended abstracts for our poster
 
 ## Submission Instructions
 
-Please submit your papers, demos, and poster abstracts to EasyChair by January 22, 2025:
+Please submit your papers, demos, and poster abstracts to EasyChair by January 24, 2025:
 [https://easychair.org/my/conference?conf=haigen2025](https://easychair.org/my/conference?conf=haigen2025)
 
 *As part of making a submission, all authors will be asked to provide a short position statement on Agents & Agency in Human-AI Co-Creation, even if their submitted work is not about the spotlight topic.*
