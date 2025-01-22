@@ -136,9 +136,11 @@ hero_image: ../img/hero.png
 * John Joon Young Chung, Midjourney
 * Hyo Jin Do, IBM Research
 * Molly Feldman, Oberlin College
+* Sebastian Gehrmann, Bloomberg
 * Katy Gero, Columbia University
 * Kazjon Grace, The University of Sydney
 * Andrew Kun, University of New Hampshire
+* Carine Lallemand, Eindhoven University of Technology
 * Yiren Liu, University of Illinois at Urbana-Champaign
 * Brian Magerko, Georgia Tech
 * Tamir Mendel, New York University
