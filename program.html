@@ -19,13 +19,13 @@ hero_image: ../img/hero.png
             <a @click="open = true" title="View large image">
                 <!-- <figure class="image is-4by3"> -->
                 <figure class="image">
-                    <img src="https://hai-gen.github.io/2025/img/giulio.jpg" alt="Giulio Jacucci">
+                    <img src="https://hai-gen.github.io/2025/img/giulio.jpeg" alt="Giulio Jacucci">
                 </figure>
             </a>
             <div class="modal" :class="{ 'is-active': open }">
                 <div class="modal-background" @click="open = false"></div>
                 <div class="modal-content">
-                    <img src="https://hai-gen.github.io/2025/img/giulio.jpg" alt="Giulio Jacucci">
+                    <img src="https://hai-gen.github.io/2025/img/giulio.jpeg" alt="Giulio Jacucci">
                 </div>
                 <button class="modal-close is-large" aria-label="close" @click="{ open = false }"></button>
             </div>
