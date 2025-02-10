@@ -9,7 +9,7 @@ hero_image: img/hero.png
 ---
 
 <div class="notification is-light">
-    <p><strong>January 21, 2025</strong>. We have extended the submission deadline to <em>January 24, 2025</em>. We have also clarified that the 10 page limit excludes references.</p>
+    <p><strong>February 10, 2025</strong>. We are excited to announce <a href="https://researchportal.helsinki.fi/en/persons/giulio-jacucci">Giulio Jacucci</a> and <a href="https://profiles.ucl.ac.uk/78441-marianna-obrist">Marianna Obrist</a> as keynote speakers!</p>
 </div>
 
 # Workshop Description
