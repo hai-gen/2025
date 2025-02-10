@@ -12,7 +12,7 @@ hero_image: ../img/hero.png
     <div class="column is-6">
         <div class="column is-6">
             <figure class="image">
-                <img src="../img/mariana_obrist.jpg" alt="Mariana Obrist">
+                <img src="../img/giulio.jpg" alt="Giulio Jacucci">
             </figure>
         </div>
         <div class="column">
