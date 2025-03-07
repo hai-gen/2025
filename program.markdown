@@ -12,7 +12,7 @@ hero_image: ../img/hero.png
     <div class="column is-6">
         <div class="column is-6">
             <figure class="image">
-                <img src="../img/giulio.jpg" alt="Giulio Jacucci">
+                <img src="../img/giulio_jacucci.jpg" alt="Giulio Jacucci">
             </figure>
         </div>
         <div class="column">
@@ -45,3 +45,258 @@ hero_image: ../img/hero.png
         </div>
     </div>
 </div>
+
+<h1>Workshop Program</h1>
+<p>Times are listed in Central European Time (UTC+1).</p>
+
+<!--
+<div class="notification is-light">
+    <p>Workshop proceedings have been published in CEUR: <a
+            href="https://ceur-ws.org/Vol-3359/">https://ceur-ws.org/Vol-3359/</a></p>
+</div>
+-->
+
+<div class="columns box">
+    <table class="table is-fullwidth">
+        <thead style="text-align: left;">
+            <th style="min-width: 160px;">Time</th>
+            <th>Activity</th>
+        </thead>
+        <tbody>
+            <tr>
+                <td><strong>9:00am</strong></td>
+                <td>
+                    <p><strong>Welcome</strong></p>
+                    <p>Opening remarks from Osnat Mokryn &amp; organizing committee</p>
+                </td>
+            </tr>
+            <tr>
+                <td><strong>9:15am</strong></td>
+                <td>
+                    <p><strong>Keynote</strong>: <a href="https://researchportal.helsinki.fi/en/persons/giulio-jacucci">Giulio Jacucci</a> &mdash; Hybrid and Affective Interactions in the GenAI-XR Convergence</p>
+                    <p>Introduction by Osnat Mokryn</p>
+                </td>
+            </tr>
+            <tr>
+                <td><strong>10:00am</strong></td>
+                <td>
+                    <p><strong>Panel 1</strong>: Agency &amp; Transparency</p>
+                    <p>Chairs: Justin Weisz &amp; Werner Geyer</p>
+                    <ul>
+                        <li>
+                            Alexander Zhang and Lav R. Varshney. <a href="../papers/P8-HAI-GEN-2025 Zhang and Varshney.pdf">Conceptualizing Agency: A Framework for Human-AI Interaction</a>&nbsp;<a class="js-modal-trigger icon is-medium" data-target="modal-bib" data-paperid="8"><i class="fas fa-quote-right"></i></a>
+                        </li>
+                        <li>
+                            Roi Alfassi, Angelora Cooper, Zoe Mitchel, Mary Calabro, Orit Shaer, and Osnat Mokryn. <a href="../papers/P4-HAI-GEN-2025 Alfassi et al.pdf">Online Storytelling Spaces: Exploring Participants' Perceptions of Overt and Covert AI Agents</a>&nbsp;<a class="js-modal-trigger icon is-medium" data-target="modal-bib" data-paperid="4"><i class="fas fa-quote-right"></i></a>
+                        </li>
+                        <li>
+                            Jessica He and Hyo Jin Do. <a href="../papers/P2-HAI-GEN-2025 He and Do.pdf">Exploring Industry Practices and Perspectives on AI Attribution in Co-Creative Use Cases</a>&nbsp;<a class="js-modal-trigger icon is-medium" data-target="modal-bib" data-paperid="2"><i class="fas fa-quote-right"></i></a>
+                        </li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td><strong>11:00am</strong></td>
+                <td>
+                    <p><strong>Coffee Break + Posters &amp; Demos</strong></p>
+                </td>
+            </tr>
+            <tr>
+                <td><strong>11:30am</strong></td>
+                <td>
+                    <p><strong>Panel 2</strong>: Agentic AI for Discovery and Creative Problem Solving</p>
+                    <p>Chair: Lydia Chilton</p>
+                    <ul>
+                        <li>
+                            Johanna Okerlund, Bethany Vasquez, Zoe Mitchell, and Orit Shaer. <a href="../papers/P5-HAI-GEN-2025 Okerlund et al.pdf">Fostering Co-creativity with Tangible Materials</a>&nbsp;<a class="js-modal-trigger icon is-medium" data-target="modal-bib" data-paperid="5"><i class="fas fa-quote-right"></i></a>
+                        </li>
+                        <li>
+                            Siya Kunde, Stephanie Houde, and Rachel K. E. Bellamy. <a href="../papers/P6-HAI-GEN-2025 Kunde et al.pdf">Designing an Agentic AI Assistant for Chemical Discovery</a>&nbsp;<a class="js-modal-trigger icon is-medium" data-target="modal-bib" data-paperid="6"><i class="fas fa-quote-right"></i></a>
+                        </li>
+                        <li>
+                            Dario Andres Silva Moran, Kristina Brimijoin, Gabriel Enrique Gonzalez, Stephanie Houde, Michael Muller, Michelle Brachman, and Justin D. Weisz. <a href="../papers/P3-HAI-GEN-2025 Silva Moran et al.pdf">ACE: Moving toward Co-Investigation with the Agentic Code Explorer</a>&nbsp;<a class="js-modal-trigger icon is-medium" data-target="modal-bib" data-paperid="3"><i class="fas fa-quote-right"></i></a>
+                        </li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td><strong>12:30am</strong></td>
+                <td>
+                    <p><strong>Panel 3</strong>: Accuracy, Accessibility, and Human Oversight in Co-Creation</p>
+                    <p>Chair: Ossi Mokryn</p>
+                    <ul>
+                        <li>
+                            Makenzie Preston and Jeba Rezwana. <a href="../papers/P9-HAI-GEN-2025 Preston and Rezwana.pdf">The Accessibility Landscape of Co-Creative AI Systems: Analysis, Insights and Recommendations</a>&nbsp;<a class="js-modal-trigger icon is-medium" data-target="modal-bib" data-paperid="9"><i class="fas fa-quote-right"></i></a>
+                        </li>
+                        <li>
+                            Emanuel Lacic, Petra Fribert, Anamarija Lukac, and Ivica Lovric. <a href="../papers/P1-HAI-GEN-2025 Lacic et al.pdf">Towards Improving Visual Chatbot Builders with Intent-based Copilots</a>&nbsp;<a class="js-modal-trigger icon is-medium" data-target="modal-bib" data-paperid="1"><i class="fas fa-quote-right"></i></a>
+                        </li>
+                        <li>
+                            Simret Araya Gebreegziabher, Charles Chiang, Zichu Wang, Zahra Ashktorab, Michelle Brachman, Werner Geyer, Toby Jia-Jun Li, and Diego Gómez-Zará. <a href="../papers/P7-HAI-GEN-2025 Gebreegziabher et al.pdf">MetricMate: An Interactive Tool for Generating Evaluation Criteria for LLM-as-a-Judge Workflow</a>&nbsp;<a class="js-modal-trigger icon is-medium" data-target="modal-bib" data-paperid="7"><i class="fas fa-quote-right"></i></a>
+                        </li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td><strong>1:30pm</strong></td>
+                <td>
+                    <p><strong>Lunch Break</strong></p>
+                </td>
+            </tr>
+            <tr>
+                <td><strong>2:30pm</strong></td>
+                <td>
+                    <p><strong>Poster &amp; Demo Session</strong></p>
+                </td>
+            </tr>
+            <tr>
+                <td><strong>3:00pm</strong></td>
+                <td>
+                    <p><strong>Keynote: </strong><a href="https://profiles.ucl.ac.uk/78441-marianna-obrist">Marianna Obrist</a> &mdash; Human-AI Interactions: A Multisensory Perspective</p>
+                    <p>Introduction by Orit Shaer</p>
+                </td>
+            </tr>
+            <tr>
+                <td><strong>4:00pm</strong></td>
+                <td>
+                    <p><strong>Coffee Break</strong></p>
+                </td>
+            </tr>
+            <tr>
+                <td><strong>4:30pm</strong></td>
+                <td>
+                    <p><strong>Design Fiction Activity</strong>: Imagining the Future of Agentic Human-AI Co-Creation</p>
+                    <p>Chair: Orit Shaer</p>
+                </td>
+            </tr>
+            <tr>
+                <td><strong>6:00pm</strong></td>
+                <td>
+                    <p><strong>Workshop End</strong></p>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+<h1><a name="poster-demo"></a>Posters &amp; Demos</h1>
+<div class="columns box">
+    <table class="table is-fullwidth">
+        <tbody>
+            <tr>
+                <td><strong>Poster</strong></td>
+                <td>Nicole Schelter and Dirk Veiel. <strong>GITTE: A Co-Creative Approach for Personalizing Intelligent Learning Assistant Embodiments Through GenAI</strong></td>
+            </tr>
+            <tr>
+                <td><strong>Demo</strong></td>
+                <td>Dario Andres Silva Moran, Kristina Brimijoin, Gabriel Enrique Gonzalez, Stephanie Houde, Michael Muller, Michelle Brachman and Justin D. Weisz. <strong>ACE: Moving toward Co-Investigation with the Agentic Code Explorer</strong></td>
+            </tr>
+            <tr>
+                <td><strong>Demo</strong></td>
+                <td>Simret Araya Gebreegziabher, Charles Chiang, Zichu Wang, Zahra Ashktorab, Michelle Brachman, Werner Geyer, Toby Jia-Jun Li and Diego Gómez-Zará. <strong>MetricMate: An Interactive Tool for Generating Evaluation Criteria for LLM-as-a-Judge Workflow</strong></td>
+            </tr>
+            <tr>
+                <td><strong>Demo</strong></td>
+                <td>Emanuel Lacic, Petra Fribert, Anamarija Lukac and Ivica Lovric. <strong>Towards Improving Visual Chatbot Builders with Intent-based Copilots</strong></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<div class="modal" id="modal-bib">
+    <div class="modal-background"></div>
+    <div class="modal-card">
+        <header class="modal-card-head">
+            <p class="modal-card-title">BibTeX Citation</p>
+            <button class="delete" aria-label="close"></button>
+        </header>
+        <section class="modal-card-body">
+            <div class="columns box">
+                <div class="column">
+                    <pre style="font-size: 0.8em; white-space: pre-wrap;" id="bibtex"></pre>
+                </div>
+                <div class="column is-1">
+                    <button class="button" onclick="copyBibtexToClipboard()"><span class="icon is-small"><i class="fas fa-copy"></i></span></button>
+                </div>
+            </div>
+        </section>
+        <footer class="modal-card-foot">
+            <div class="buttons">
+                <button class="button is-primary">Close</button>
+            </div>
+        </footer>
+    </div>
+</div>
+
+<script>
+const BIBTEX = {
+    1: 'BibTeX will become available when the workshop proceedings are archived in CEUR. Stay tuned!',
+    2: 'BibTeX will become available when the workshop proceedings are archived in CEUR. Stay tuned!',
+    3: 'BibTeX will become available when the workshop proceedings are archived in CEUR. Stay tuned!',
+    4: 'BibTeX will become available when the workshop proceedings are archived in CEUR. Stay tuned!',
+    5: 'BibTeX will become available when the workshop proceedings are archived in CEUR. Stay tuned!',
+    6: 'BibTeX will become available when the workshop proceedings are archived in CEUR. Stay tuned!',
+    7: 'BibTeX will become available when the workshop proceedings are archived in CEUR. Stay tuned!',
+    8: 'BibTeX will become available when the workshop proceedings are archived in CEUR. Stay tuned!',
+    9: 'BibTeX will become available when the workshop proceedings are archived in CEUR. Stay tuned!',
+};
+
+// thank you https://bulma.io/documentation/components/modal/
+document.addEventListener('DOMContentLoaded', () => {
+  // Functions to open and close a modal
+  function openModal($el) {
+    $el.classList.add('is-active');
+  }
+
+  function closeModal($el) {
+    $el.classList.remove('is-active');
+  }
+
+  function closeAllModals() {
+    (document.querySelectorAll('.modal') || []).forEach(($modal) => {
+      closeModal($modal);
+    });
+  }
+
+  // Add a click event on buttons to open a specific modal
+  (document.querySelectorAll('.js-modal-trigger') || []).forEach(($trigger) => {
+    const modal = $trigger.dataset.target;
+    const paperid = $trigger.dataset.paperid;
+    const bibtex = BIBTEX[paperid];
+    const $target = document.getElementById(modal);
+
+    $trigger.addEventListener('click', () => {
+        document.getElementById('bibtex').textContent = bibtex;
+        openModal($target);
+    });
+  });
+
+  // Add a click event on various child elements to close the parent modal
+  (document.querySelectorAll('.modal-background, .modal-close, .modal-card-head .delete, .modal-card-foot') || []).forEach(($close) => {
+    const $target = $close.closest('.modal');
+
+    $close.addEventListener('click', () => {
+      closeModal($target);
+    });
+  });
+
+  // Add a keyboard event to close all modals
+  document.addEventListener('keydown', (event) => {
+    if(event.key === "Escape") {
+      closeAllModals();
+    }
+  });
+});
+
+function copyBibtexToClipboard() {
+  if (!navigator.clipboard) {
+    return;
+  }
+  const bibtex = document.getElementById('bibtex').textContent;
+  navigator.clipboard.writeText(bibtex).then(function() {
+  }, function(err) {
+    console.error('could not copy bibtex to clipboard: ', err);
+  });
+}
+</script>
