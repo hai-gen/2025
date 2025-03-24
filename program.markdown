@@ -120,7 +120,7 @@ hero_image: ../img/hero.png
                 </td>
             </tr>
             <tr>
-                <td><strong>12:30am</strong></td>
+                <td><strong>12:15pm</strong></td>
                 <td>
                     <p><strong>Panel 3</strong>: Accuracy, Accessibility, and Human Oversight in Co-Creation</p>
                     <p>Chair: Ossi Mokryn</p>
@@ -138,7 +138,7 @@ hero_image: ../img/hero.png
                 </td>
             </tr>
             <tr>
-                <td><strong>1:30pm</strong></td>
+                <td><strong>1:00pm</strong></td>
                 <td>
                     <p><strong>Lunch Break</strong></p>
                 </td>
