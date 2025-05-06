@@ -204,6 +204,11 @@ hero_image: ../img/hero.png
     </table>
 </div>
 
+<h1><a name="video-replays"></a>Video Replays</h1>
+<div class="columns box">
+    <iframe width="840" height="472" src="https://www.youtube.com/embed/videoseries?si=3u_KlLP2SOhn13UL&amp;list=PLbKfxsKIOGSK_tk6ezbDFK_ThhJmp50U6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 <div class="modal" id="modal-bib">
     <div class="modal-background"></div>
     <div class="modal-card">

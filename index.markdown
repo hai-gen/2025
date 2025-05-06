@@ -9,7 +9,7 @@ hero_image: img/hero.png
 ---
 
 <div class="notification is-light">
-    <p><strong>March 7, 2025</strong>. We have published the <a href="program">workshop program</a>. See you in Cagliari!</p>
+    <p><strong>May 6, 2025</strong>. Thanks to our participants for a wonderful workshop! We have posted <a href="program/#video-replays">video replays</a> of selected talks.</p>
 </div>
 
 # Workshop Description
