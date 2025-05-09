@@ -9,7 +9,7 @@ hero_image: img/hero.png
 ---
 
 <div class="notification is-light">
-    <p><strong>May 6, 2025</strong>. Thanks to our participants for a wonderful workshop! We have posted <a href="program/#video-replays">video replays</a> of selected talks.</p>
+    <p><strong>May 6, 2025</strong>. Thanks to our participants for a wonderful workshop! We have posted <a href="program/#video-replays">video replays</a> of selected talks (also published as a <a href="https://youtube.com/playlist?list=PLbKfxsKIOGSK_tk6ezbDFK_ThhJmp50U6&si=ANV9rF1lHJ-usNiy">YouTube playlist</a>). Our workshop proceedings have been archived in CEUR: <a href="https://ceur-ws.org/Vol-3957/">https://ceur-ws.org/Vol-3957/</a>.</p>
 </div>
 
 # Workshop Description
